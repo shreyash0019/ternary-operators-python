@@ -6,6 +6,7 @@ This repository contains Python code examples demonstrating the usage of **terna
 
 ### Basic Syntax of Ternary Operator  
 
+
 A ternary operator is a shorthand for an `if-else` statement:  
 
 ```python  
@@ -19,10 +20,4 @@ print(f"{number} is {result}.")
 7 is Odd.
 
 
-How to Run
 
-    1. Clone the repository: git clone https://github.com/shreyash0019/ternary-operators-python.git  
-    2 . Run the Python scripts:python ternary_operators.py  
-
-
-⭐️ If you find this repository helpful, don't forget to star it!
